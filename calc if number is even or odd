@@ -1,0 +1,17 @@
+int main()
+{
+   int number;
+   cout << "please enter your number\n";
+   cin>>number;
+   if (number%2==0)
+   {
+    cout<<"done ya bro";
+   }
+     else
+     {
+        cout <<"try again ya bro";
+     }
+     
+   
+   
+}
